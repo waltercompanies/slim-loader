@@ -2,11 +2,15 @@
 
 Inspired by `slm-loader`: https://github.com/wealthbar/slm-loader
 
-Install:
+[SLM/SLIM](https://github.com/slm-lang/slm) loader for Webpack
+
+## Installation
+
+Add the NPM package to your project:
 
     npm install git+ssh://git@github.com/waltercompanies/slim-loader.git --save
 
-And add to rules section in your Webpack config:
+And then, add to rules section in your Webpack config:
 
 ```js
     {
@@ -16,3 +20,5 @@ And add to rules section in your Webpack config:
         }
     }
 ```
+
+Done! :sparkles:
