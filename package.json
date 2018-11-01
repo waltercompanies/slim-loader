@@ -1,0 +1,26 @@
+{
+  "name": "slm-webpack-loader",
+  "version": "1.0.0",
+  "description": "SLM/SLIM Template Loader for Webpack",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkln/slm-webpack-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "slm",
+    "slim",
+    "loader"
+  ],
+  "author": "Diederick Lawson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dkln/slm-webpack-loader/issues"
+  },
+  "homepage": "https://github.com/dkln/slm-webpack-loader#readme",
+  "dependencies": {
+    "slm": "^2.0.0",
+    "slm-markdown": "^1.0.0"
+  }
+}
