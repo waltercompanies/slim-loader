@@ -1,5 +1,7 @@
 # SLIM Webpack loader
 
+Inspired by `slm-loader`: https://github.com/wealthbar/slm-loader
+
 Install:
 
     npm install git+ssh://git@github.com/waltercompanies/slim-loader.git --save
