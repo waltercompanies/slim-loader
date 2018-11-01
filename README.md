@@ -1,8 +1,6 @@
 # SLIM Webpack loader
 
-Inspired by `slm-loader`: https://github.com/wealthbar/slm-loader
-
-[SLM/SLIM](https://github.com/slm-lang/slm) loader for Webpack
+[SLM/SLIM](https://github.com/slm-lang/slm) loader for Webpack. Compatible with Webpack 4+
 
 ## Installation
 
@@ -22,3 +20,7 @@ And then, add to rules section in your Webpack config:
 ```
 
 Done! :sparkles:
+
+## Credits
+
+Inspired & fork by `slm-loader`: https://github.com/wealthbar/slm-loader
