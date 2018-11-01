@@ -10,7 +10,7 @@ And add to rules section in your Webpack config:
     {
         test: /\.slim$/,
         use: {
-          loader: 'slm-webpack-loader'
+          loader: 'slim-loader'
         }
     }
 ```
