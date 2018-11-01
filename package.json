@@ -1,5 +1,5 @@
 {
-  "name": "slm-webpack-loader",
+  "name": "slim-loader",
   "version": "1.0.0",
   "description": "SLM/SLIM Template Loader for Webpack",
   "main": "index.js",
