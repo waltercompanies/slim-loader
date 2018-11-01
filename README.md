@@ -1,6 +1,6 @@
 # SLIM Webpack loader
 
-[SLM/SLIM](https://github.com/slm-lang/slm) loader for Webpack
+[SLM/SLIM](https://github.com/slm-lang/slm) loader for Webpack. Compatible with Webpack 4+
 
 ## Installation
 
